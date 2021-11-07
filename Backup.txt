@@ -1,0 +1,320 @@
+null/home/jitreudee/Desktop/processing-pde.desktop
+/home/jitreudee/Desktop/Scatch
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/scratch_tree.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/ForTree.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/IfTree.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/cat.png
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Cat.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/NotEqual.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/ScratchCat.png
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Variable.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Tree.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Run.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Condition.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Move.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Less.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Equal.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Rotate.pde
+/home/jitreudee/Desktop/Scatch/scratch_tree-main (1)/scratch_tree/Greater.pde
+/home/jitreudee/Desktop/111
+/home/jitreudee/Desktop/111/123
+/home/jitreudee/Desktop/111/124
+/home/jitreudee/Desktop/111/124/154
+/home/jitreudee/Desktop/111/124/154/6
+/home/jitreudee/Desktop/111/124/154/5
+/home/jitreudee/Desktop/111/124/156
+/home/jitreudee/Desktop/111/124/101
+/home/jitreudee/Desktop/111/124/101/3
+/home/jitreudee/Desktop/111/124/101/2
+/home/jitreudee/Desktop/111/124/101/1
+/home/jitreudee/Desktop/Processing
+/home/jitreudee/Desktop/Processing/Scatch tree
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/scratch_tree.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/ForTree.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/IfTree.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/cat.png
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/HEAD
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-merge-commit.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-push.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/fsmonitor-watchman.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-receive.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-rebase.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/prepare-commit-msg.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/post-update.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/commit-msg.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-commit.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/pre-applypatch.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/applypatch-msg.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/hooks/update.sample
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/HEAD
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs/remotes
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs/heads
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/logs/refs/heads/main
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/info
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/info/exclude
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/branches
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/description
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/index
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/config
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/objects
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/objects/info
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/objects/pack
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/objects/pack/pack-1b932e2748204b64a6c62040dc9c0a3070bef897.idx
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/objects/pack/pack-1b932e2748204b64a6c62040dc9c0a3070bef897.pack
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/packed-refs
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/remotes
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/heads
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/heads/main
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/.git/refs/tags
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Cat.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/NotEqual.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/ScratchCat.png
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Variable.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Tree.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Run.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Condition.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Move.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Less.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Equal.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Rotate.pde
+/home/jitreudee/Desktop/Processing/Scatch tree/scratch_tree/Greater.pde
+/home/jitreudee/Desktop/Processing/Directory
+/home/jitreudee/Desktop/Processing/Directory/.git
+/home/jitreudee/Desktop/Processing/Directory/.git/HEAD
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-merge-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-push.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/fsmonitor-watchman.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-receive.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-rebase.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/prepare-commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/post-update.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/pre-applypatch.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/applypatch-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/hooks/update.sample
+/home/jitreudee/Desktop/Processing/Directory/.git/logs
+/home/jitreudee/Desktop/Processing/Directory/.git/logs/refs
+/home/jitreudee/Desktop/Processing/Directory/.git/logs/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/.git/logs/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/.git/logs/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/.git/info
+/home/jitreudee/Desktop/Processing/Directory/.git/info/exclude
+/home/jitreudee/Desktop/Processing/Directory/.git/branches
+/home/jitreudee/Desktop/Processing/Directory/.git/description
+/home/jitreudee/Desktop/Processing/Directory/.git/FETCH_HEAD
+/home/jitreudee/Desktop/Processing/Directory/.git/config
+/home/jitreudee/Desktop/Processing/Directory/.git/objects
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/73
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/73/47f004a0b6b3a93f357a9e72e9673e6ddbc460
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/info
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/9e
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/9e/cd1f21dee73afe14804562b4d73d33978921f3
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/pack
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/33
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/33/3c0e0890a826f7da4f33c5e0e923f0aa8770dc
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/a2
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/a2/4d315912086dc33c0f5b6573d8158f94b7e404
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/26
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/26/c0498341197c43a604adfdc6f1a0a24743a085
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/1e
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/1e/552a83e5b221ebb530ab45bd6500b58c7aa92a
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/d8
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/d8/14345731b625e6b3ae6e32cd1b2c5d8331597b
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/df
+/home/jitreudee/Desktop/Processing/Directory/.git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b
+/home/jitreudee/Desktop/Processing/Directory/.git/refs
+/home/jitreudee/Desktop/Processing/Directory/.git/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/.git/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/.git/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/.git/refs/heads
+/home/jitreudee/Desktop/Processing/Directory/.git/refs/tags
+/home/jitreudee/Desktop/Processing/Directory/Directory01
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/ORIG_HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-merge-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-push.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/fsmonitor-watchman.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-receive.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-rebase.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/prepare-commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/post-update.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/pre-applypatch.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/applypatch-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/hooks/update.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/heads
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/logs/refs/heads/main
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/info
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/info/exclude
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/branches
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/description
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/index
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/FETCH_HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/config
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/b0
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/b0/119aaff0c83c55de06cfc2ccf8b84ef0617404
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/73
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/73/47f004a0b6b3a93f357a9e72e9673e6ddbc460
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/b5
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/b5/cf942b7ed512e40cc5cd71efa2b049d31d18e0
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/a1
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/a1/cf2c4d62482631b3d02e8966f345eb69f0b444
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/05
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/05/9c5baec02866e77708ef686dcaa95630356530
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/info
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/72
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/72/1d246b808325e3871b7b9aedea1fdb4dbeed43
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/9e
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/9e/cd1f21dee73afe14804562b4d73d33978921f3
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/pack
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/33
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/33/3c0e0890a826f7da4f33c5e0e923f0aa8770dc
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/4c
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/4c/0961ccfad27e72f3c3c4f837acd988cb5551f5
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/a2
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/a2/4d315912086dc33c0f5b6573d8158f94b7e404
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/00
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/00/036c52be4ae38c18b84d658e0068b2e9cb1d0d
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/26
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/26/c0498341197c43a604adfdc6f1a0a24743a085
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/1e
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/1e/552a83e5b221ebb530ab45bd6500b58c7aa92a
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/ae
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/ae/471dcf2a34729fab35e7fb25229e880aa13e4c
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/d8
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/d8/14345731b625e6b3ae6e32cd1b2c5d8331597b
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/df
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/75
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/objects/75/851bea39be47f7041a003384300250d01efe30
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/packed-refs
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/heads
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/heads/main
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.git/refs/tags
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/Backup.txt
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/Directory.pde
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.gitignore
+/home/jitreudee/Desktop/Processing/Directory/Directory01/Directory/.gitattributes
+/home/jitreudee/Desktop/Processing/Directory/Directory
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/ORIG_HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-merge-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-push.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/fsmonitor-watchman.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-receive.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-rebase.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/prepare-commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/post-update.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/commit-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-commit.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/pre-applypatch.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/applypatch-msg.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/hooks/update.sample
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/heads
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/logs/refs/heads/main
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/info
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/info/exclude
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/branches
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/description
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/index
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/FETCH_HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/config
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/b0
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/b0/119aaff0c83c55de06cfc2ccf8b84ef0617404
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/73
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/73/47f004a0b6b3a93f357a9e72e9673e6ddbc460
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/b5
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/b5/cf942b7ed512e40cc5cd71efa2b049d31d18e0
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/a1
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/a1/cf2c4d62482631b3d02e8966f345eb69f0b444
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/05
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/05/9c5baec02866e77708ef686dcaa95630356530
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/info
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/72
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/72/1d246b808325e3871b7b9aedea1fdb4dbeed43
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/9e
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/9e/cd1f21dee73afe14804562b4d73d33978921f3
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/pack
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/33
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/33/3c0e0890a826f7da4f33c5e0e923f0aa8770dc
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/4c
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/4c/0961ccfad27e72f3c3c4f837acd988cb5551f5
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/a2
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/a2/4d315912086dc33c0f5b6573d8158f94b7e404
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/00
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/00/036c52be4ae38c18b84d658e0068b2e9cb1d0d
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/26
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/26/c0498341197c43a604adfdc6f1a0a24743a085
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/1e
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/1e/552a83e5b221ebb530ab45bd6500b58c7aa92a
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/ae
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/ae/471dcf2a34729fab35e7fb25229e880aa13e4c
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/d8
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/d8/14345731b625e6b3ae6e32cd1b2c5d8331597b
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/df
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/75
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/objects/75/851bea39be47f7041a003384300250d01efe30
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/packed-refs
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/remotes
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/remotes/origin
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/remotes/origin/main
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/remotes/origin/HEAD
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/heads
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/heads/main
+/home/jitreudee/Desktop/Processing/Directory/Directory/.git/refs/tags
+/home/jitreudee/Desktop/Processing/Directory/Directory/Backup.txt
+/home/jitreudee/Desktop/Processing/Directory/Directory/Directory.pde
+/home/jitreudee/Desktop/Processing/Directory/Directory/.gitignore
+/home/jitreudee/Desktop/Processing/Directory/Directory/.gitattributes
+/home/jitreudee/Desktop/Processing/Directory/Directory/README.md
+/home/jitreudee/Desktop/Processing/Directory/DirecRegex
+/home/jitreudee/Desktop/Processing/Directory/DirecRegex/Backup.txt
+/home/jitreudee/Desktop/Processing/Directory/DirecRegex/DirecRegex
+/home/jitreudee/Desktop/Processing/Directory/DirecRegex/DirecRegex/Backup.txt
+/home/jitreudee/Desktop/Processing/Directory/DirecRegex/DirecRegex/DirecRegex.pde
+/home/jitreudee/Desktop/Processing/TestRegex
+/home/jitreudee/Desktop/Processing/TestRegex/TestRegex .txt
+/home/jitreudee/Desktop/Processing/TestRegex/TestRegex.pde
